@@ -33,6 +33,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -42,4 +43,12 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
