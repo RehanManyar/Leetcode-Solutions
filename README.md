@@ -32,9 +32,14 @@ Happy Coding! 🚀
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0136-single-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
