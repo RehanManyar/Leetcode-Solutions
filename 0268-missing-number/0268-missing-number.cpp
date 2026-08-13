@@ -8,7 +8,6 @@ public:
             ans ^= i;
             ans ^= nums[i];
         }
-
         return ans;
     }
 };
