@@ -42,16 +42,19 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +69,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +83,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0050-powx-n](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +102,5 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
