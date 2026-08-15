@@ -5,6 +5,7 @@ public:
         // Negative numbers are never palindrome
         if (x < 0)
             return false;
+            
         int original = x;
         long long reverse = 0;
 
