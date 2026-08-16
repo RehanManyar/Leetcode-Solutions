@@ -52,12 +52,10 @@ public:
                     left++;
                     right--;
                 }
-
                 else if (sum < 0) {
                     // Increase sum
                     left++;
                 }
-
                 else {
                     // Decrease sum
                     right--;
