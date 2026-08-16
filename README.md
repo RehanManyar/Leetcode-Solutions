@@ -36,6 +36,7 @@ Happy Coding! 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
@@ -74,6 +75,7 @@ Happy Coding! 🚀
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -101,6 +103,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
