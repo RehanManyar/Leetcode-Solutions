@@ -1,66 +1,71 @@
 class Solution {
 public:
     int stoneGameV(vector<int>& stoneValue) {
-       
         int n = stoneValue.size();
 
-        // Prefix sum
-        vector<int> prefix(n + 1, 0);
-
-        for (int i = 0; i < n; i++) {
-            prefix[i + 1] = prefix[i] + stoneValue[i];
-        }
-
-        // dp[l][r] = maximum score Alice can get
-        // from subarray l...r
+        // dp[i][j] = maximum score from subarray i...j
         vector<vector<int>> dp(n, vector<int>(n, 0));
 
-        // Length of subarray
-        for (int len = 2; len <= n; len++) {
+        // mx[i][j] = maximum value of
+        // dp[i][k] + sum(i...k), for i <= k <= j
+        vector<vector<int>> mx(n, vector<int>(n, 0));
 
-            for (int l = 0; l + len - 1 < n; l++) {
+        for (int i = 0; i < n; i++) {
+            mx[i][i] = stoneValue[i];
+        }
 
-                int r = l + len - 1;
+        // Fix the right boundary
+        for (int j = 1; j < n; j++) {
 
-                // Try every possible split
-                for (int k = l; k < r; k++) {
+            int mid = j;
+            int sum = stoneValue[j];
+            int rightSum = 0;
 
-                    int leftSum = prefix[k + 1] - prefix[l];
-                    int rightSum = prefix[r + 1] - prefix[k + 1];
+            // Move left boundary
+            for (int i = j - 1; i >= 0; i--) {
 
-                    if (leftSum < rightSum) {
+                sum += stoneValue[i];
 
-                        // Right side is discarded
-                        // Alice keeps left side
-                        dp[l][r] = max(
-                            dp[l][r],
-                            leftSum + dp[l][k]
-                        );
+                // Find the point where
+                // left sum becomes >= right sum
+                while (mid > i &&
+                       (rightSum + stoneValue[mid]) * 2 <= sum) {
 
-                    } 
-                    else if (leftSum > rightSum) {
-
-                        // Left side is discarded
-                        // Alice keeps right side
-                        dp[l][r] = max(
-                            dp[l][r],
-                            rightSum + dp[k + 1][r]
-                        );
-
-                    } 
-                    else {
-
-                        // Equal sums
-                        // Alice can choose either side
-                        dp[l][r] = max(
-                            dp[l][r],
-                            leftSum + max(
-                                dp[l][k],
-                                dp[k + 1][r]
-                            )
-                        );
-                    }
+                    rightSum += stoneValue[mid];
+                    mid--;
                 }
+
+                // Equal sums
+                if (rightSum * 2 == sum) {
+                    dp[i][j] = mx[i][mid];
+                }
+
+                // Left side is smaller
+                if (mid != i) {
+                    dp[i][j] = max(
+                        dp[i][j],
+                        mx[i][mid - 1]
+                    );
+                }
+
+                // Right side is smaller
+                if (mid != j) {
+                    dp[i][j] = max(
+                        dp[i][j],
+                        mx[j][mid + 1]
+                    );
+                }
+
+                // Update helper tables
+                mx[i][j] = max(
+                    mx[i][j - 1],
+                    dp[i][j] + sum
+                );
+
+                mx[j][i] = max(
+                    mx[j][i + 1],
+                    dp[i][j] + sum
+                );
             }
         }
 
