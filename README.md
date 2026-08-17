@@ -48,6 +48,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ Happy Coding! 🚀
 | [0050-powx-n](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +128,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 <!---LeetCode Topics End-->
