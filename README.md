@@ -93,6 +93,7 @@ Happy Coding! 🚀
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
@@ -101,6 +102,7 @@ Happy Coding! 🚀
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -132,4 +134,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
