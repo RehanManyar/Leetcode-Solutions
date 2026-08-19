@@ -2,59 +2,52 @@ class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
 
-        unordered_map<int, unordered_set<int>> mp;
+        ranges::sort(reservedSeats);
 
-        // Store only useful reserved seats
-        for (auto &seat : reservedSeats) {
-            int row = seat[0];
-            int col = seat[1];
+        int families = 2 * n;
+        int m = reservedSeats.size();
 
-            if (col >= 2 && col <= 9) {
-                mp[row].insert(col);
-            }
-        }
+        for (int i = 0; i < m; ) {
 
-        // Rows without any important reservation can fit 2 groups
-        int ans = (n - mp.size()) * 2;
+            int row = reservedSeats[i][0];
 
-        for (auto &[row, seats] : mp) {
+            // This row was initially counted as 2 families.
+            families -= 2;
 
-            bool left = true;
-            bool middle = true;
-            bool right = true;
+            array<bool, 11> reserved{};
 
-            // Check 2,3,4,5
-            for (int i = 2; i <= 5; i++) {
-                if (seats.count(i)) {
-                    left = false;
-                    break;
-                }
+            // Mark reserved seats of this row.
+            while (i < m && reservedSeats[i][0] == row) {
+                reserved[reservedSeats[i][1]] = true;
+                i++;
             }
 
-            // Check 4,5,6,7
-            for (int i = 4; i <= 7; i++) {
-                if (seats.count(i)) {
-                    middle = false;
-                    break;
-                }
-            }
+            bool left =
+                !reserved[2] &&
+                !reserved[3] &&
+                !reserved[4] &&
+                !reserved[5];
 
-            // Check 6,7,8,9
-            for (int i = 6; i <= 9; i++) {
-                if (seats.count(i)) {
-                    right = false;
-                    break;
-                }
-            }
+            bool middle =
+                !reserved[4] &&
+                !reserved[5] &&
+                !reserved[6] &&
+                !reserved[7];
+
+            bool right =
+                !reserved[6] &&
+                !reserved[7] &&
+                !reserved[8] &&
+                !reserved[9];
 
             if (left && right) {
-                ans += 2;
+                families += 2;
             }
             else if (left || middle || right) {
-                ans += 1;
+                families += 1;
             }
         }
 
-        return ans;
+        return families;
     }
 };
