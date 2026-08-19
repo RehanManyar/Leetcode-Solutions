@@ -48,6 +48,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -56,6 +57,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0136-single-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -118,6 +121,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
