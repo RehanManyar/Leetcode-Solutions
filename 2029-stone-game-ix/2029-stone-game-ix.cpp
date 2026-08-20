@@ -6,7 +6,6 @@ public:
         for (int x : stones) {
             cnt[x % 3]++;
         }
-
         // If there are no remainder-1 or remainder-2 stones,
         // Alice cannot avoid eventually taking a multiple of 3.
         if (cnt[1] == 0 && cnt[2] == 0)
