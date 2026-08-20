@@ -51,6 +51,7 @@ Happy Coding! 🚀
 | [1386-cinema-seat-allocation](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Bit Manipulation
@@ -92,6 +93,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
+| [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +126,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +145,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
+| [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,4 +154,16 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
