@@ -51,6 +51,7 @@ Happy Coding! 🚀
 | [1386-cinema-seat-allocation](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -144,4 +145,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
