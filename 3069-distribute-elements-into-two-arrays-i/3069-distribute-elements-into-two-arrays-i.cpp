@@ -14,7 +14,6 @@ public:
                 arr2.push_back(nums[i]);
             }
         }
-
         // Concatenate arr2 after arr1
         for (int x : arr2) {
             arr1.push_back(x);
