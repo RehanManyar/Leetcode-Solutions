@@ -10,7 +10,6 @@ public:
 
             sum += digit;
             product *= digit;
-
             n /= 10;
         }
 
