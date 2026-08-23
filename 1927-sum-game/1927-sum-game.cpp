@@ -13,7 +13,7 @@ public:
             else
                 leftSum += num[i] - '0';
         }
-
+        
         for (int i = half; i < n; i++) {
             if (num[i] == '?')
                 rightQ++;
