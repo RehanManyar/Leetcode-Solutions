@@ -7,6 +7,7 @@ public:
         for (int i = 1; i < n; i++) {
             stones[i] += stones[i - 1];
         }
+
         // Start with the total sum
         int ans = stones[n - 1];
 
