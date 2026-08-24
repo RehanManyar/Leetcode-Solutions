@@ -50,6 +50,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -83,6 +84,7 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -153,6 +156,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Linked List
@@ -166,6 +170,7 @@ Happy Coding! 🚀
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -174,6 +179,7 @@ Happy Coding! 🚀
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -183,4 +189,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
