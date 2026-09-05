@@ -56,6 +56,7 @@ Happy Coding! 🚀
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +194,5 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [3904-smallest-stable-index-ii](https://github.com/RehanManyar/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 <!---LeetCode Topics End-->
